@@ -1,0 +1,36 @@
+body {
+
+    background: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+    .yellow {
+
+        background: yellow;
+        width: 600px;
+        height: 600px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .blue {
+
+        background: blue;
+        width: 400px;
+        height: 400px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .red {
+
+        background: red;
+        width: 200px;
+        height: 200px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
